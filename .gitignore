@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Temp Excel lock files
+~$*.xlsx
+
+# Large data files (add to Git LFS or keep local)
+*.csv
